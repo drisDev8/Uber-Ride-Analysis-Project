@@ -16,7 +16,7 @@ Cancellation Reasons by Driver and Customers
 Analyzed the high total cancellation rate of 25%. This analysis aimed to break down the reasons for these cancellations to understand the underlying operational issues and customer/driver behavior.
 
 # 🔧 Analysis and Tools Used
-# Data Cleaning and Transformation:
+## Data Cleaning and Transformation:
 1. Converted Booking Value from a string to a whole number. <br>
 2. Converted Ride Distance, Customer Rating, and Driver Ratings from strings to decimal numbers. <br>
 3. Ensured the Date and Time columns were in the correct format for time-based analysis. <br>
@@ -44,7 +44,7 @@ Through this analysis, I uncovered several critical insights: <br>
 6. Customer ratings are consistently high (average 4.40-4.41), indicating overall satisfaction. <br>
 7. Driver ratings are slightly lower but stable (average 4.23-4.24), with Go Sedan receiving the highest customer ratings and the UberXL category having the most satisfied drivers. <br>
 
-# 🧠Skills Gained:
+# 🧠Skills Gained
 Through this case study, I gained hands-on experience in:
 
 1. Data Cleaning and Transformation: Converting data types, ensuring data integrity, and preparing raw data for analysis. <br>
