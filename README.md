@@ -13,7 +13,7 @@ Payment Method <br>
 Cancellation Reasons by Driver and Customers
 
 # 🎯Business Problem Addressed
-Analyzed the high total cancellation rate of 25%. This analysis aimed to break down the reasons for these cancellations to understand the underlying operational issues and customer/driver behavior.
+This analysis aimed to break down the reasons for these cancellations to understand the underlying operational issues and customer/driver behavior.
 
 # 🔧 Analysis and Tools Used
 ## Data Cleaning and Transformation:
