@@ -40,9 +40,13 @@ Through this analysis, I uncovered several critical insights: <br>
 4. Payment Method Trends: UPI is the highest contributor to revenue (45%), followed by Cash (25%). <br>
 5. High-Value Customers: The analysis of the top 5 customers revealed a small group of high-spending, loyal users with a high Customer Lifetime Value (CLV). <br>
 
+<img width="1246" height="256" alt="Image" src="https://github.com/user-attachments/assets/325885ca-d9c3-4ee9-ba17-f2a2c03bad73" />
+<img width="685" height="398" alt="Image" src="https://github.com/user-attachments/assets/2689090b-06eb-4d4b-b77f-dd914fe1c4ab" />
+
 ## Ratings Analysis:
 6. Customer ratings are consistently high (average 4.40-4.41), indicating overall satisfaction. <br>
 7. Driver ratings are slightly lower but stable (average 4.23-4.24), with Go Sedan receiving the highest customer ratings and the UberXL category having the most satisfied drivers. <br>
+<img width="1268" height="602" alt="Image" src="https://github.com/user-attachments/assets/05f4fed2-d583-49f4-b5bd-e8946a501f24" />
 
 # 🧠Skills Gained
 Through this case study, I gained hands-on experience in:
