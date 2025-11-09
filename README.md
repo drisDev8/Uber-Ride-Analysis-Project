@@ -36,12 +36,13 @@ This analysis aimed to break down the reasons for these cancellations to underst
 Through this analysis, I uncovered several critical insights: <br>
 1. High Cancellation Rate: The total cancellation rate stands at 25%, with 18% initiated by drivers and 7% by customers, highlighting a significant operational challenge. <br>
 2. Vehicle Performance: The Auto vehicle type is the most profitable with the highest booking value ($11.73M) and total distance traveled (602K km). In contrast, Uber XL has the lowest utilization. <br>
+<img width="685" height="398" alt="Image" src="https://github.com/user-attachments/assets/2689090b-06eb-4d4b-b77f-dd914fe1c4ab" />
+
 3. Stable Ride Volume: The monthly ride volume is consistently stable, ranging from 11.9K to 12.9K, suggesting a mature market with no significant seasonal fluctuations. <br>
 4. Payment Method Trends: UPI is the highest contributor to revenue (45%), followed by Cash (25%). <br>
 5. High-Value Customers: The analysis of the top 5 customers revealed a small group of high-spending, loyal users with a high Customer Lifetime Value (CLV). <br>
 
 <img width="1246" height="256" alt="Image" src="https://github.com/user-attachments/assets/325885ca-d9c3-4ee9-ba17-f2a2c03bad73" />
-<img width="685" height="398" alt="Image" src="https://github.com/user-attachments/assets/2689090b-06eb-4d4b-b77f-dd914fe1c4ab" />
 
 ## Ratings Analysis:
 6. Customer ratings are consistently high (average 4.40-4.41), indicating overall satisfaction. <br>
