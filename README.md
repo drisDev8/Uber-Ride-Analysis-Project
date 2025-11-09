@@ -59,6 +59,4 @@ Through this case study, I gained hands-on experience in:
 5. Business Problem Solving: Identifying and addressing key business challenges (e.g., high cancellation rates, vehical analysis) through data-driven insights. <br>
 6. Storytelling with Data: Moving beyond raw numbers to create a clear and actionable narrative from the analysis. 
 
-# 👤About Me
-LinkedIn: https://www.linkedin.com/in/dristi-handique/
 
